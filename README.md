@@ -7,7 +7,7 @@ We used CSS to draw 2 eyes and their pupils.  We used the 'onmousemove' event in
 ## How to Run:
 1. Clone Repository to your local environment.
 2. Open index.html in a Web Browser. 
-3. Click 'Add PacMan' to add PacMen to the screen. 4 Click 'Start Game' to animate the PacMen.
+3. Move your cursor around the screen and the pupils in the eyes should follow.
 
 ## Roadmap for Future Improvements:
 1. Make the eyes cross when the cursor is between them.
